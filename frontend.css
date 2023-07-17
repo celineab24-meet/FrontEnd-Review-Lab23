@@ -1,7 +1,5 @@
- 
-  
-  body{background-color: lightblue;}
- #bluetext{ color:"blue"; }
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    font-family: sans; color: yellow;}
+body{background-color: lightblue;}
+#bluetext{color:"blue";
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  font-family: sans; color: yellow;}
 
